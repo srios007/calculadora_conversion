@@ -2,9 +2,7 @@
 
 Aplicación para convertir número en las diferentes bases
 
-## Ejercicio
-
-Integrantes:
+## Integrantes:
 
 - Santiago Rios Valero - 20181020017
 - Eduwin Arley Puin Vargas - 20191020092
